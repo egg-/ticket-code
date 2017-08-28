@@ -1,0 +1,37 @@
+{
+  "name": "ticket-code",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "ticket-code is generate ticket codes library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egg-/ticket-code.git"
+  },
+  "keywords": [
+    "ticket",
+    "coupon",
+    "voucher",
+    "promotion"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/ticket-code/issues"
+  },
+  "homepage": "https://github.com/egg-/ticket-code#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "matchdep": "^2.0.0",
+    "mocha": "^3.5.0",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {}
+}
